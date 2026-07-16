@@ -1,2 +1,2 @@
-[Contribution guidelines for this project](COIT11223-portfolio/CONTRIBUTING.md)
+[Contribution guidelines for this project](https://github.com/abisheksapkota-spec/COIT11223-portfolio/blob/main/CONTRIBUTING.md)
 hiii
