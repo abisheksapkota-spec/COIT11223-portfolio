@@ -1,2 +1,2 @@
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](COIT11223-portfolio/CONTRIBUTING.md)
 hiii
