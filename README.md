@@ -1,4 +1,4 @@
-# COIT11223 – e-Portfolio
+# COIT11223, e-Portfolio
 
 This repository contains my e-Portfolio submissions for **COIT11223** (Term 2, 2026).
 
