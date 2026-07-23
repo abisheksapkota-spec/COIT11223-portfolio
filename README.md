@@ -23,4 +23,4 @@ This e-portfolio was developed as part of my ICT studies to reflect on and criti
 
 ## 🔗 Quick Link
 
-👉 [View e-Portfolio 1 — Artificial Intelligence](./e-portfolio-1-Artificial-Intelligence.md)
+👉 [View e-Portfolio 1: Artificial Intelligence](./e-portfolio-1-Artificial-Intelligence.md)
