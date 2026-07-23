@@ -7,8 +7,8 @@ This repository contains my e-Portfolio submissions for **COIT11223** (Term 2, 2
 | File | Description |
 |---|---|
 | [`e-portfolio-1-Artificial-Intelligence.md`](./e-portfolio-1-Artificial-Intelligence.md) | e-Portfolio 1 — Artificial Intelligence: four artefacts (explainer video, news article, journal article, workshop reflection) with summaries, justifications, and workshop attendance evidence |
-| `attendance-photo-1.jpeg` | Workshop attendance photo — group photo in the computer lab |
-| `attendance-photo-2.jpeg` | Workshop attendance photo — lecture slide on screen |
+| `attendance-photo-1.jpeg` | Workshop attendance photo-group photo in the computer lab |
+| `attendance-photo-2.jpeg` | Workshop attendance photo-lecture slide on screen |
 
 ## 👤 Student Details
 
