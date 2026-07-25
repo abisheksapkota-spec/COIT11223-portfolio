@@ -7,7 +7,7 @@ This e-portfolio is made as part of my ICT study to understand AI's role in day-
 
 ## 📑 Contents
 
-1. [Artefact 1 – What is Artificial Intelligence?](#artefact-1--what-is-artificial-intelligence)
+1. [Artefact 1 – What is Artificial Intelligence?](#-Artefact-1:-what-is-artificial-intelligence?)
 2. [Artefact 2 – AI in Healthcare](#artefact-2--ai-in-healthcare)
 3. [Artefact 3 – Scholarly Article on AI Ethics](#artefact-3--scholarly-article-on-ai-ethics)
 4. [Artefact 4 – Workshop Personal Reflection](#artefact-4--workshop-personal-reflection)
@@ -15,7 +15,7 @@ This e-portfolio is made as part of my ICT study to understand AI's role in day-
 
 ---
 
-## Artefact 1-What is Artificial Intelligence?
+## Artefact 1: What is Artificial Intelligence?
 
 ### 📝 Summary of the Artefact
 According to the video *What Is AI? How Artificial Intelligence Is Changing Everything* (2025), the typical ANI/AGI/ASI artificial intelligence classification system indicates that artificial narrow intelligence is limited to the function which it is created for and cannot go beyond its training area, it performs one particular function, for example, an AI which can detect cancerous tumors, but cannot drive a car. While artificial general intelligence has not been realized yet, it would be capable of performing multiple tasks the way humans do, through logical reasoning, ability to learn and solve problems. Artificial super-intelligence is the most abstract level of intelligence system, referring to an entity which possesses self-awareness and allows it to operate free from human influences.
@@ -26,7 +26,7 @@ This has altered my previous conception of AI, which I regarded as merely a tool
 
 ---
 
-## Artefact 2-AI in Healthcare
+## Artefact 2: AI in Healthcare
 
 ### 📝 Summary of the Artefact
 According to Jones (2026), ChatGPT Health is an OpenAI tool created to give health information and wellness assistance but not to diagnose or treat. It opened its doors to a small group of users in Australia on January 16, 2026. According to OpenAI, the service helps users interpret health information, get ready for appointments, and look at wellness alternatives, but should not be considered an alternative to healthcare professionals. The article emphasizes a regulatory gap because ChatGPT Health falls under the category of information and not as a clinical tool, raising questions regarding supervision, accountability, data privacy, and integration with My Health Record (Jones 2026).
@@ -36,7 +36,7 @@ This is an important subject to think about in light of me becoming an ICT profe
 
 ---
 
-## Artefact 3-Scholarly Article on AI Ethics
+## Artefact 3: Scholarly Article on AI Ethics
 
 > 📚 **Source:** Radanliev, P 2025, *’AI Ethics: Integrating Transparency, Fairness, and Privacy in AI Development’*, Applied Artificial Intelligence, vol. 39, no. 1
 
@@ -50,7 +50,7 @@ Thus, it reflects the workshop conversation on AI bias and fairness. We discusse
 
 ---
 
-## Artefact 4-Workshop Personal Reflection
+## Artefact 4: Workshop Personal Reflection
 
 | Field | Detail |
 |---|---|
@@ -61,14 +61,14 @@ Thus, it reflects the workshop conversation on AI bias and fairness. We discusse
 
 ### 🖼️ Attendance Evidence
 
-**Photo 1-Group photo, computer lab**
+**Photo 1: Group photo, computer lab**
 Selfie with peers taken inside the workshop computer lab, confirming physical presence in the session.
 
 ![Attendance photo with classmates in the workshop lab](attendance-photo-1.jpeg)
 
 <img width="640" height="480" alt="workshopsLabWFriends" src="https://github.com/user-attachments/assets/8267d199-5024-49ec-945a-9188e1d61a52" />
 
-**Photo 2-Lecture slide on screen**
+**Photo 2: Lecture slide on screen**
 Photo of the workshop room showing the presentation slide (*“Learning and study support”*) projected on screen, timestamped 2:33 pm, further confirming attendance.
 
 ![Workshop lecture slide displayed on projector](attendance-photo-2.jpeg)
