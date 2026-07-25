@@ -88,6 +88,7 @@ The following reflection illustrates my active participation in Workshop 2 and h
 
 - Jones, T 2026, 'Neural Notes: ChatGPT Health’s Australian launch raises hard regulatory questions', *SmartCompany*, 16 January 2026, viewed 23 July 2026, <https://www.smartcompany.com.au/artificial-intelligence/chatgpt-health-australia-regulation-data-openai/>
 - Radanliev, P 2025, 'AI Ethics: Integrating Transparency, Fairness, and Privacy in AI Development', *Applied Artificial Intelligence*, vol. 39, no. 1. DOI: https://doi.org/10.1080/08839514.2025.2463722
-- [Channel name-check the video page] 2025, *What Is AI? How Artificial Intelligence Is Changing Everything (Beginner Friendly)*, video, 22 June 2025, viewed 23 July 2026, <https://www.youtube.com/watch?v=c7gTnY7OIm0>
+- Learn Bright 2024, *
+What Is AI? | Learn all about artificial intelligence*, video, 6 Dec 2024, viewed 23 July 2026, <https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s>
 
 
