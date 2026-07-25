@@ -7,7 +7,7 @@ This e-portfolio is made as part of my ICT study to understand AI's role in day-
 
 ## 📑 Contents
 
-1. [Artefact 1 – What is Artificial Intelligence?](#-Artefact-1:-what-is-artificial-intelligence?)
+1. [Artefact 1 – What is Artificial Intelligence?](#-Artefact-1:-What-is-Artificial-Intelligence?)
 2. [Artefact 2 – AI in Healthcare](#artefact-2--ai-in-healthcare)
 3. [Artefact 3 – Scholarly Article on AI Ethics](#artefact-3--scholarly-article-on-ai-ethics)
 4. [Artefact 4 – Workshop Personal Reflection](#artefact-4--workshop-personal-reflection)
