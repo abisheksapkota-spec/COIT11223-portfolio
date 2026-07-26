@@ -18,7 +18,7 @@ This e-portfolio is made as part of my ICT study to understand AI’s role in da
 ## Artefact 1: What is Artificial Intelligence?
 
 ### 📝 Summary of the Artefact
-According to the video What Is AI? How Artificial Intelligence Is Changing Everything (2025), the typical ANI/AGI/ASI artificial intelligence classification system indicates that artificial narrow intelligence is limited to the function for which it is created and cannot go beyond its training area; it performs one particular function, for example, an AI that can detect cancerous tumors, but cannot drive a car. While artificial general intelligence has not been realized yet, it would be capable of performing multiple tasks the way humans do, through logical reasoning and the ability to learn or solve problems. Artificial super-intelligence is the most abstract level of intelligence system, referring to an entity that possesses self-awareness and allows it to operate free from human influences.
+As reported by Learn Bright (2024), the standard classification system for artificial intelligence such as ANI, AGI, or ASI, states that artificial narrow intelligence is made for a particular purpose and cannot work outside its training domain; for instance, artificial narrow intelligence can be effective in detecting oncological tumours, but cannot drive a vehicle. Although artificial general intelligence does not exist yet, it enables it to execute multiple activities like human beings, with the use of logical reasoning and learning or problem-solving capabilities. Artificial super-intelligence is the highest level of intelligence system, which can be defined as self-aware.
 
 ### 💡 Justification on Why I Chose the Artefact
 
@@ -48,7 +48,6 @@ I found the ethical concerns described in Radanliev’s article very engaging si
 
 Thus, it reflects the workshop conversation on AI bias and fairness. We discussed the fact that AI decisions can differ from neutrality, and it is the responsibility of developers to bring the least bias possible and construct AI systems fairly. The workshop taught me that ethical considerations of AI are as vital as the development of AI technologies.
 
-Thus, it reflects the workshop conversation on AI bias and fairness. We discussed the fact that AI decisions can differ from neutrality, and it is the responsibility of developers to bring the least bias possible and construct AI systems fairly. The workshop taught me that ethical considerations of AI are as vital as the development of AI technologies.
 
 ---
 
