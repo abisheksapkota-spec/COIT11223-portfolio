@@ -35,6 +35,7 @@ I found this instance to be troublesome because of my concern that those who tri
 This was a mixed learning experience as the students' behaviour may have been ethical, but there were significant legal implications.  I learned that professionals in the field of ICT must learn about both ethical duties and legal obligations prior to performing security testing. Accordingly, going forward, I will always make sure to have proper authorisation in addition to following responsible disclosure protocols and observing both rules of ethics for professionals and the law.
 
 ## Artefact 3: Understanding the Insider Threat, Short Video
+<img width="1650" height="1130" alt="image" src="https://github.com/user-attachments/assets/de47d1c0-c8dc-48c1-81dd-b5e3a5941a1f" />
 
 [Understanding the Insider Threat, Cybersecurity and Infrastructure Security Agency CISA, YouTube](https://www.youtube.com/watch?v=5GLNKHJCSkg)
 
