@@ -34,22 +34,23 @@ I found this instance to be troublesome because of my concern that those who tri
 
 This was a mixed learning experience as the students' behaviour may have been ethical, but there were significant legal implications.  I learned that professionals in the field of ICT must learn about both ethical duties and legal obligations prior to performing security testing. Accordingly, going forward, I will always make sure to have proper authorisation in addition to following responsible disclosure protocols and observing both rules of ethics for professionals and the law.
 
-## Artefact 3: Understanding the Insider Threat, Short Video
+
+## Artefact 3: Privileged User Training, Video Series
 <img width="1650" height="1130" alt="image" src="https://github.com/user-attachments/assets/de47d1c0-c8dc-48c1-81dd-b5e3a5941a1f" />
 
-[Understanding the Insider Threat, Cybersecurity and Infrastructure Security Agency CISA, YouTube](https://www.youtube.com/watch?v=5GLNKHJCSkg)
+[Privileged User Training, Australian Cyber Security Centre (ACSC)](https://www.cyber.gov.au/business-government/protecting-devices-systems/system-administration/privileged-user-training)
 
 ### 1. Describe
 
-This brief video from CISA describes the concept of insider threat as damage inflicted by individuals who hold a legitimate permission to use a particular system and provides an explanation of how insider threats differ from external attacks. Experts in security and human behaviour emphasise the fact that insider threats may include non-physical forms of damage, such as data theft, sabotage or abuse of privileged access, as well as violent acts. It is highlighted that companies need to focus their efforts on the identification of behavioural signals indicating the possibility of insider attacks instead of relying mainly on external protective measures. A popular example is the case of Terry Childs, a network administrator in San Francisco who, in 2008, locked himself out of his employer’s network for 12 days by refusing to hand over administrative passwords.
+This training series from the ACSC is aimed at privileged ICT users, such as system administrators and network security staff who hold elevated access to systems and data. It covers attacker behaviour, defence-in-depth strategies, risk management and incident response, and addresses emerging challenges such as social engineering and AI risks. The series was released in July 2026 to help meet the Australian Government's annual cybersecurity training requirement for privileged users.
 
 ### 2. Analyse
 
-I was particularly drawn to this video as it presented the idea that dangerous workers can be a greater threat to cybersecurity than outside attackers. This was new to me as I mostly thought that cybercrimes are carried out by external individuals. The Terry Childs case revealed that someone possessing an access credential is capable of creating havoc. This can be connected to virtue ethics since it is essential for people involved in ICT to have such traits as loyalty, accountability, and trustworthiness. It is not enough to be good at information technologies; one also needs to be trustworthy.
+This series stood out to me because it treats privileged users as a distinct risk category, not because they are usually malicious, but because their position of trust means any mistake or misuse can cause far greater damage than an ordinary user's. Before looking into this, I mostly thought of cybersecurity training as generic advice given to all staff. Learning that privileged access comes with its own dedicated, mandatory training requirement changed that view. This connects to virtue ethics because ICT professionals in these roles are expected to demonstrate ongoing honesty, responsibility, and trustworthiness, not just when they are first hired but continuously, which is exactly why annual training is required.
 
 ### 3. Evaluate
 
-To conclude, I can say that this learning experience was really good for me since my opinion regarding the risks of cybersecurity has changed. I have learned that the protection of data does not only mean that I have to use technical controls, but also build a culture of trust and responsibility, and act ethically in the organisation. Being an ICT professional in the future, I would act responsibly, according to the organisation's policies, and use my privileges only when allowed to do so.
+To conclude, I can say that this was a positive learning experience because it changed my opinion regarding the risks of cybersecurity. I have learned that the protection of data does not only mean that I have to use technical controls, but also build a culture of trust and responsibility, and treat privileged access as an ongoing responsibility rather than a one-time trust decision. Being an ICT professional in the future, I would act responsibly, keep my security knowledge current, and use my privileges only when allowed to do so.
 
 ## Artefact 4: Workshop Personal Reflection
 
