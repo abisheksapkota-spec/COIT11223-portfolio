@@ -73,10 +73,10 @@ The AI assignment situation caught my attention as AI tools are prevalent in edu
 
 In general, this was an advantageous learning experience because it has allowed me to know more about the application of ethical theories to real situations related to ICT. I have learned that only technical knowledge is insufficient and that ICT specialists should be honest and responsible and consider how their decisions influence others. Furthermore, I will use AI in the future as a learning tool but take care to present my own knowledge when turning in my assignments without compromising academic integrity. Moreover, this workshop prompted me to reflect on the ethical implications of my actions in my future profession in ICT.
 
-## References in CQU Harvard Style
+## References:
 
 Simplilearn 2021, White Hat vs Black Hat vs Grey Hat, Types Of Hackers Explained, Ethical Hacking, video, 6 June 2021, viewed 6 August 2026, <https://www.youtube.com/watch?v=9K8Xn0y5CU4>
 
 Newsbook.com.mt 2025, Ethical hackers charged with unauthorised access to FreeHour app, Newsbook, viewed 6 August 2026, <https://newsbook.com.mt/en/ethical-hackers-charged-with-unauthorised-access-to-freehour-app/>
 
-Cybersecurity and Infrastructure Security Agency CISA 2019, Understanding the Insider Threat, video, 29 March 2019, viewed 6 August 2026, <https://www.youtube.com/watch?v=5GLNKHJCSkg>
+Australian Cyber Security Centre (ACSC) 2026, Privileged User Training, Cyber.gov.au, viewed 6 August 2026, <https://www.cyber.gov.au/business-government/protecting-devices-systems/system-administration/privileged-user-training>
