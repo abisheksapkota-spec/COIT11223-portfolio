@@ -28,7 +28,7 @@ In 2022, three students of computer science at the University of Malta and their
 
 ### 2. Analyse
 
-I found this instance to be troublesome because of my concern that those who tried to responsibly report a security flaw were instead met with punishment. Initially, my instinct was to think that their actions were benign and not meant to do harm. Upon doing some research on social contract theory, I discovered that both parties – the organisation and the researchers – have duties of their own. Researchers have the duty to act responsibly, while the organisation must develop fair policies that ease responsible reporting instead of making it difficult.
+I found this instance to be troublesome because of my concern that those who tried to responsibly report a security flaw were instead met with punishment. Initially, my instinct was to think that their actions were benign and not meant to do harm. Upon doing some research on social contract theory, I discovered that both parties, the organisation and the researchers; have duties of their own. Researchers have the duty to act responsibly, while the organisation must develop fair policies that ease responsible reporting instead of making it difficult.
 
 ### 3. Evaluate
 
@@ -63,7 +63,7 @@ In conclusion, this turned out to be a fruitful learning experience for me since
 
 ### 1. Describe
 
-In this week's workshop, ethics and theories of ethics were covered in connection with ICT and society. The contents included definitions of morality, ethics, and law and five theories of ethics—namely Kantianism, act and rule utilitarianism, social contract theory and virtue ethics. Each theory was used in discussions of a particular example of ethical conduct: the early release of a buggy application, claiming authorship of AI-generated results, directing traffic on the highway, prevention of computer worms, and profiting from customer information in business.
+In this week's workshop, ethics and theories of ethics were covered in connection with ICT and society. The contents included definitions of morality, ethics, and law and five theories of ethics: namely Kantianism, act and rule utilitarianism, social contract theory and virtue ethics. Each theory was used in discussions of a particular example of ethical conduct: the early release of a buggy application, claiming authorship of AI-generated results, directing traffic on the highway, prevention of computer worms, and profiting from customer information in business.
 
 ### 2. Analyse
 
