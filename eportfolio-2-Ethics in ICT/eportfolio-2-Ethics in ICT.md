@@ -42,15 +42,16 @@ This was a mixed learning experience as the students' behaviour may have been et
 
 ### 1. Describe
 
-This training series from the ACSC is aimed at privileged ICT users, such as system administrators and network security staff who hold elevated access to systems and data. It covers attacker behaviour, defence-in-depth strategies, risk management and incident response, and addresses emerging challenges such as social engineering and AI risks. The series was released in July 2026 to help meet the Australian Government's annual cybersecurity training requirement for privileged users.
+The ACSC has compiled this training series for privileged ICT personnel, like system administrators and network security professionals, who have privileged access to systems and data. The materials focus on attacker behavior, defense-in-depth strategies, risk management, and incident response, and some of the new challenges like social engineering and AI threats are also discussed. The release date of the content was July 2026 in order to fulfill the annual cybersecurity training obligation of the Australian Government for those privileged users.
 
 ### 2. Analyse
 
-This series stood out to me because it treats privileged users as a distinct risk category, not because they are usually malicious, but because their position of trust means any mistake or misuse can cause far greater damage than an ordinary user's. Before looking into this, I mostly thought of cybersecurity training as generic advice given to all staff. Learning that privileged access comes with its own dedicated, mandatory training requirement changed that view. This connects to virtue ethics because ICT professionals in these roles are expected to demonstrate ongoing honesty, responsibility, and trustworthiness, not just when they are first hired but continuously, which is exactly why annual training is required.
+I find this series interesting since it views privileged users as unique threats, not because they usually cause something bad to happen, but because any mistake they do because it can potentially cause greater harm than an average user can do. Until I came across this information, I used to regard cybersecurity education simply as well-meaning advice given to staff. But now that I realize privileged access means even more rigorous and necessary training, I understand better why that is necessary. This connects to the idea of virtue ethics because people in such jobs have to be honest, responsible, and trustworthy not just at the hiring stage but later as well which is why they are supposed to undergo training on an annual basis.
+
 
 ### 3. Evaluate
 
-To conclude, I can say that this was a positive learning experience because it changed my opinion regarding the risks of cybersecurity. I have learned that the protection of data does not only mean that I have to use technical controls, but also build a culture of trust and responsibility, and treat privileged access as an ongoing responsibility rather than a one-time trust decision. Being an ICT professional in the future, I would act responsibly, keep my security knowledge current, and use my privileges only when allowed to do so.
+In conclusion, this turned out to be a fruitful learning experience for me since it allowed me to revise my views on cybersecurity risks. I got to know that the protection of information often presupposes the establishment of an atmosphere of trust and accountability rather than relying solely on numerous technical means of protection. As a future ICT specialist, I would behave responsibly and regularly update my security knowledge and manage my privileges accordingly.
 
 ## Artefact 4: Workshop Personal Reflection
 
