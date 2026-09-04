@@ -14,7 +14,7 @@ Campus: CQUniversity Sydney
 
 Lecturer: Umapathy Venugopal
 
-Date: 27 August 2026
+Due Date: 6 September 2026 
 
 ---
 
