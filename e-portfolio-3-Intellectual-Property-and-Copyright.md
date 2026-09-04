@@ -49,9 +49,7 @@ In the case Getty Images v. Stability AI, the High Court in England ruled that S
 | **Campus** | Sydney |
 
 **Attendance Evidence**
-
-![Workshop 7 attendance selfie](<img width="1920" height="1080" alt="week7_AttendanceEvidence" src="https://github.com/user-attachments/assets/6bfacac3-bac8-43ce-9e35-45bba90a70fa" />
-)
+<img width="1920" height="1080" alt="week7_AttendanceEvidence" src="https://github.com/user-attachments/assets/6bfacac3-bac8-43ce-9e35-45bba90a70fa" />
 
 The workshop conducted during the current week focused on four major components of IP, which include Copyright, Trademarks, Patents, and Trade secrets. As a group, we could discuss many topics such as the duration of copyright in Australia, which is 70 years, the case of Naruto v. Slater, where the case was dismissed on the basis that macaques cannot obtain copyrights to their images, the logo of Nike and the recipe of Coca-Cola as trade secrets, etc. The most fascinating part relates the Monkey selfie case to the issue regarding AI: the same principle applies that copyright necessitates the presence of a human author. The mentioned case is supported by Thaler v. Perlmutter, where the works created by AI cannot be registered because there is no human author behind them. I have now figured out that being an ICT expert, I should always keep documentation of any human contribution made in the process of creating any AI-assisted work.
 
