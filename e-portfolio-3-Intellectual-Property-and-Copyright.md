@@ -25,6 +25,8 @@ This e-portfolio has been created as a component of the ICT course aimed at eval
 ## Artefact 1: Can You Copyright AI-Generated Work?
 
 Source: [Here's What You Can And Can't Copyright With AI, Matt Wolfe, YouTube](https://www.youtube.com/watch?v=1A74lC0tHH0)
+<img width="1980" height="1320" alt="image" src="https://github.com/user-attachments/assets/216058ee-c19c-4157-8ca4-53f111a1b34c" />
+
 
 Wolfe (2025) talks about the US Copyright Office's viewpoint on the situation with copyrighted works produced by AI. This points out the idea that the determining factor in terms of copyrighting something is the presence of human creativity rather than the use of AI in production. An example of this fact can be exemplified by the fact that, by giving a text command with no additional involvement, one does not own the resulting text, for AI is the creator of the piece; however, if someone decides to change the order of the creation or significantly edit the piece that was originally produced, such human engagement can give them copyright rights. I wanted to use this video in my assignment because it helped me answer the burning question that I had before participating in the workshop: who owns the works produced by AI?
 
