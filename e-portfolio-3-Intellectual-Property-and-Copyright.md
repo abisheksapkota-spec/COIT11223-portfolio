@@ -26,7 +26,7 @@ This e-portfolio has been created as a component of the ICT course aimed at eval
 
 Source: [Here's What You Can And Can't Copyright With AI, Matt Wolfe, YouTube](https://www.youtube.com/watch?v=1A74lC0tHH0)
 <img width="1980" height="1320" alt="image" src="https://github.com/user-attachments/assets/216058ee-c19c-4157-8ca4-53f111a1b34c" />
-
+- image shows the evidence to the video i watched 
 
 Wolfe (2025) talks about the US Copyright Office's viewpoint on the situation with copyrighted works produced by AI. This points out the idea that the determining factor in terms of copyrighting something is the presence of human creativity rather than the use of AI in production. An example of this fact can be exemplified by the fact that, by giving a text command with no additional involvement, one does not own the resulting text, for AI is the creator of the piece; however, if someone decides to change the order of the creation or significantly edit the piece that was originally produced, such human engagement can give them copyright rights. I wanted to use this video in my assignment because it helped me answer the burning question that I had before participating in the workshop: who owns the works produced by AI?
 
@@ -52,6 +52,7 @@ In the case Getty Images v. Stability AI, the High Court in England ruled that S
 
 **Attendance Evidence**
 <img width="1920" height="1080" alt="week7_AttendanceEvidence" src="https://github.com/user-attachments/assets/6bfacac3-bac8-43ce-9e35-45bba90a70fa" />
+- selfie as a evidence i attend the workshop 
 
 The workshop conducted during the current week focused on four major components of IP, which include Copyright, Trademarks, Patents, and Trade secrets. As a group, we could discuss many topics such as the duration of copyright in Australia, which is 70 years, the case of Naruto v. Slater, where the case was dismissed on the basis that macaques cannot obtain copyrights to their images, the logo of Nike and the recipe of Coca-Cola as trade secrets, etc. The most fascinating part relates the Monkey selfie case to the issue regarding AI: the same principle applies that copyright necessitates the presence of a human author. The mentioned case is supported by Thaler v. Perlmutter, where the works created by AI cannot be registered because there is no human author behind them. I have now figured out that being an ICT expert, I should always keep documentation of any human contribution made in the process of creating any AI-assisted work.
 
