@@ -63,7 +63,7 @@ This article was selected for the reason that, unlike the news articles being re
 | Field | Detail |
 |---|---|
 | **Workshop** | Week 9: Censorship and Government |
-| **Day / Date** | Thursday, 10 September 2026 |
+| **Day / Date** | Thursday, 17 September 2026 |
 | **Tutor** | Umapathy Venugopal |
 | **Campus** | Sydney |
 
