@@ -14,7 +14,7 @@ Campus: CQUniversity Sydney
 
 Lecturer: Umapathy Venugopal
 
-Date: 10 September 2026
+Due: Sunday, 20 September 2026, 11:45 PM
 
 # e-Portfolio 4: Censorship and Government
 
