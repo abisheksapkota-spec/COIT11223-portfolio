@@ -69,7 +69,7 @@ This article was selected for the reason that, unlike the news articles being re
 
 Selfie taken during the Week 9 workshop, confirming physical attendance.
 
-![Selfie taken during the Week 9 workshop in the computer lab, confirming physical attendance](e4_assets/artefact4_selfie.jpeg)
+![Selfie taken during the Week 9 workshop in the computer lab, confirming physical attendance](artefact4_selfie.jpeg)
 
 ### Summary of the Artefact: My Personal Reflection
 
